@@ -264,12 +264,6 @@ function love.update(dt)
 
 end
 
-function love.resize(w, h)
-	effect = moonshine(moonshine.effects.vignette)
-	effect.vignette.opacity = 0.3
-
-end
-
 function love.keypressed(key, unicode)
 	ui.updateKeyboardPressed(key)
 
