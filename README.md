@@ -12,6 +12,6 @@ You can have multiple different decks (which are loaded and created when the pro
 
 ![main menu](https://i.imgur.com/VscNs0B.png)
 
-## In order to run the program you need to have [LÖVE](http://love2d.org) installed, and you have to run the program from terminal. The program also has to be in your home directory (it's meant for Linux users). In case you want to put it into some other directory you have to open the main.py file and edit the saveLocation variable to the new directory.
+## In order to run the program you need to have [LÖVE](http://love2d.org) installed, and you have to run the program from terminal. The program also has to be in your home directory (it's meant for Linux users) and then in a folder titled "milicaFlashCards". In case you want to put it into some other directory you have to open the main.py file and edit the saveLocation variable to the new directory.
 
 ### Have fun learning
